@@ -8,7 +8,7 @@
 
 ## Passo-a-pasos para fazer os exercícios
 
-- [Get Up and Running in 5 Minutes](#-get-up-and-running-in-5-minutes)
+- [Configurando o Ambiente](#-configurando-o-ambiente)
 
 ## 💻 Configurando o Ambiente
 
@@ -16,12 +16,12 @@
 
 2. **Verifique se ele foi instalado corretamente**
 
-  Execute este comando no terminal:
+Execute este comando no terminal:
 
-  ```shell
-  node -v
-  ```
+```shell
+node -v
+```
 
-  E verifique se o retorno foi o número da versão, como na imagem:
+E verifique se o retorno foi o número da versão, como na imagem:
 
 ![console-node](https://user-images.githubusercontent.com/29297788/64584587-bc8f9a80-d36b-11e9-9687-7f1ccd9fc660.jpg)
