@@ -6,7 +6,7 @@
   Exercícios do eBook "4 Dicas Práticas para Escrever Condicionais Eficientes em JavaScript"
 </h1>
 
-## Passo-a-passo para Fazer os Exercícios
+## Passo-a-passo para Baixar e Entregar os Exercícios
 
 <!-- LINKAR ÂNCORAS AQUI -->
 - [Configurando o Ambiente](#-configurando-o-ambiente)
@@ -34,6 +34,8 @@ Ao clicar no botão, uma tela como essa será exibida por poucos segundos:
 ![forking](https://user-images.githubusercontent.com/29297788/64745546-aa823900-d4de-11e9-87a7-20e2cd9c4ea5.jpg)
 
 E em seguida, você será redirecionado para a página da sua cópia do repositório.
+
+#### 3. **Clone o Repositório**
 
 Agora você pode baixar o repositório e fazer os exercícios em sua máquina.
 
