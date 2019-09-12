@@ -81,6 +81,14 @@ node -v
 
 ![console-node](https://user-images.githubusercontent.com/29297788/64584587-bc8f9a80-d36b-11e9-9687-7f1ccd9fc660.jpg)
 
-## [X] Como Enviar os Exercícios
+## 💌 Como Enviar os Exercícios
 
-1. ****
+Após fazer todos os exercícios, abra o terminal, vá para dentro do seu repositório local, e faça o seguinte:
+
+1. **Adicione as modificações à staging area do Git:**
+
+```shell
+git add .
+```
+
+2. ****
