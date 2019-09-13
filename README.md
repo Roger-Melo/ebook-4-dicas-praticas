@@ -41,11 +41,11 @@ node -v
 
 ## ⬇️ Como Baixar os Exercícios
 
-#### 1. **Clique no botão "watch" e selecione a opção "watching"**
+#### 1. **No canto superior direito da página, clique no botão "watch" e selecione a opção "watching"**
 
 Isso fará com que você seja notificado por email, caso algum exercício passe por alguma modificação:
 
-![watch-button](https://user-images.githubusercontent.com/29297788/64745259-8b36dc00-d4dd-11e9-960f-c798cb012b33.png)
+![botao-watch](https://user-images.githubusercontent.com/55263552/64829838-58a3e680-d5a4-11e9-99e7-d88507bdda93.jpg)
 
 #### 2. **Dê um Fork no Repositório**
 
@@ -55,17 +55,17 @@ O que é um "Fork"?
 
 No canto superior direito da página, clique no botão "Fork":
 
-![botao-fork](https://user-images.githubusercontent.com/29297788/64745218-62164b80-d4dd-11e9-86f3-2a3a3482a620.jpg)
+![botao-fork](https://user-images.githubusercontent.com/55263552/64829904-9e60af00-d5a4-11e9-9ebc-bcd5f1c1d102.jpg)
 
 Ao clicar no botão, uma tela como essa será exibida por poucos segundos:
 
-![forking](https://user-images.githubusercontent.com/29297788/64745546-aa823900-d4de-11e9-87a7-20e2cd9c4ea5.jpg)
+![forking](https://user-images.githubusercontent.com/55263552/64829957-d10aa780-d5a4-11e9-97f4-799262153327.jpg)
 
 E em seguida, você será redirecionado para a página da sua cópia do repositório.
 
 Note que abaixo do nome do repositório é mostrado o repositório original, ou seja, de onde ele foi forkado:
 
-![forked-from](https://user-images.githubusercontent.com/29297788/64828393-9c93ed00-d59e-11e9-9834-148de5e33cfe.jpg)
+![forked-from](https://user-images.githubusercontent.com/55263552/64830045-1038f880-d5a5-11e9-8621-5d356d4cfa80.jpg)
 
 A ideia aqui é resolver todos os exercícios e enviar o pull request para o repositório original.
 
@@ -77,7 +77,7 @@ Agora você precisa baixar os arquivos do repositório para que você possa alte
 
 A primeira coisa a fazer é copiar a URL do repositório daqui:
 
-![cloning](https://user-images.githubusercontent.com/29297788/64745619-f7660f80-d4de-11e9-8cc8-c6baac517cae.jpg)
+![cloning](https://user-images.githubusercontent.com/55263552/64830100-5726ee00-d5a5-11e9-8e28-97ad09dcb0c7.jpg)
 
 Agora, abra seu terminal, vá para a pasta em que o projeto deve ser baixado e execute o seguinte comando: 
 
@@ -117,4 +117,20 @@ git push origin [nome-da-sua-branch]
 
 Após isso, ao abrir a página do seu fork, um aviso como esse será exibido:
 
-<!-- IMAGEM -->
+![git-pr](https://user-images.githubusercontent.com/29297788/64829193-cd295600-d5a1-11e9-8a4f-351e86e8894f.jpg)
+
+4. **Faça o Pull Request**
+
+É só clicar no botão verde "Compare & pull request".
+
+Você será direcionado para a página onde criará o pull request.
+
+Apenas confira se as modificações que aparecem realmente correspondem ao código que você escreveu.
+
+Exemplo:
+
+![pr-dif](https://user-images.githubusercontent.com/29297788/64830769-a6bae900-d5a8-11e9-9fbc-8e728374593a.jpg)
+
+Se estiver tudo certo, é só clicar no botão "Create pull request".
+
+Esse que vos fala irá receber o código e, em breve, te dará um feedback =D
