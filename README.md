@@ -134,4 +134,4 @@ Exemplo:
 
 Se estiver tudo certo, é só clicar no botão verde, "Create pull request".
 
-Esse que vos fala irá receber o código e, em breve, te dará um feedback, caso você tenha sido um dos 10 primeiros à baixar o eBook =D
+Esse que vos fala irá receber o código e, em breve, te dará um feedback, caso você tenha sido um dos 10 primeiros a baixar o eBook =D
