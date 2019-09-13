@@ -9,8 +9,8 @@
 ## Passo-a-passo para Baixar e Entregar os Exercícios
 
 - [Como Configurar o Ambiente](#-como-configurar-o-ambiente)
-- [Como Baixar os Exercícios](#-como-baixar-os-exercícios)
-- [Como Enviar os Exercícios](#-como-enviar-os-exercícios)
+- [Como Baixar os Exercícios](#-como-baixar-os-exerc%C3%ADcios)
+- [Como Enviar os Exercícios](#-como-enviar-os-exerc%C3%ADcios)
 
 ## 💻 Como Configurar o Ambiente
 
