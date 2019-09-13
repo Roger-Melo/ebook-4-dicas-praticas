@@ -8,8 +8,9 @@
 
 ## Passo-a-passo para Baixar e Entregar os Exercícios
 
-<!-- LINKAR ÂNCORAS AQUI -->
-- [Como Configurar o Ambiente](#-)
+- [Como Configurar o Ambiente](#-como-configurar-o-ambiente)
+- [Como Baixar os Exercícios](#-como-baixar-os-exercícios)
+- [Como Enviar os Exercícios](#-como-enviar-os-exercícios)
 
 ## 💻 Como Configurar o Ambiente
 
@@ -131,6 +132,6 @@ Exemplo:
 
 ![pr-dif](https://user-images.githubusercontent.com/29297788/64830769-a6bae900-d5a8-11e9-9fbc-8e728374593a.jpg)
 
-Se estiver tudo certo, é só clicar no botão "Create pull request".
+Se estiver tudo certo, é só clicar no botão verde, "Create pull request".
 
-Esse que vos fala irá receber o código e, em breve, te dará um feedback =D
+Esse que vos fala irá receber o código e, em breve, te dará um feedback, caso você tenha sido um dos 10 primeiros à baixar o eBook =D
