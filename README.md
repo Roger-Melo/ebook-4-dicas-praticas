@@ -118,5 +118,3 @@ git push origin [nome-da-sua-branch]
 Após isso, ao abrir a página do seu fork, um aviso como esse será exibido:
 
 <!-- IMAGEM -->
-
-4.
