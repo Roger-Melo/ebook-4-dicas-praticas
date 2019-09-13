@@ -122,7 +122,7 @@ Após isso, ao abrir a página do seu fork, um aviso como esse será exibido:
 
 4. **Faça o Pull Request**
 
-É só clicar no botão verde "Compare & pull request".
+Clique no botão verde "Compare & pull request".
 
 Você será direcionado para a página onde criará o pull request.
 
