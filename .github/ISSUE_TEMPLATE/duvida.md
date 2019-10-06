@@ -1,6 +1,6 @@
 ---
 name: Dúvida
-about: Dúvidas de quem estou ajudando
+about: Dúvidas de quem baixou o eBook
 title: Página "XX" - "Título da Dúvida aqui"
 labels: question
 assignees: Roger-Melo
